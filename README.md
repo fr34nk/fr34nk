@@ -25,9 +25,6 @@ https://biblioteca-ifc-videira.github.io/biblioteca-ifc-videira/
 #### Basic React Form
 https://basic-user-form.vercel.app/
 
-##### Carro aluguel
-https://www.carroaluguel.com/
-
 ##### Weknow Healtech
 https://weknowhealthtech.com.br/
 
