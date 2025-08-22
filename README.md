@@ -25,6 +25,3 @@ https://biblioteca-ifc-videira.github.io/biblioteca-ifc-videira/
 #### Basic React Form
 https://basic-user-form.vercel.app/
 
-##### Weknow Healtech
-https://weknowhealthtech.com.br/
-
