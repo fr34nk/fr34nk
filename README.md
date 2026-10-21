@@ -13,7 +13,7 @@ After switching carreers, I've already worked with various frameworks like React
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,nextjs,redux,vue,vite,babel,express,electron,wordpress,js,ts,jest,figma,graphql,mongodb,nodejs,pnpm,npm,yarn,firebase,jquery,pug,html,css,sass,styledcomponents,tailwind,bootstrap,ai,ps,webpack" />
+    <img src="https://skillicons.dev/icons?i=angular,react,nextjs,redux,vue,vite,babel,express,electron,wordpress,js,ts,jest,figma,nodejs,pnpm,npm,yarn,firebase,jquery,pug,html,css,sass,styledcomponents,tailwind,bootstrap,ai,ps,webpack" />
   </a>
 </p>
 <p align="center">
@@ -28,7 +28,7 @@ After switching carreers, I've already worked with various frameworks like React
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb,postgres,sequelize,rabbitmq,redis" />
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb,grapql,postgres,sequelize,rabbitmq,redis" />
   </a>
 </p>
 <p align="center">
