@@ -28,7 +28,7 @@ After switching carreers, I've already worked with various frameworks like React
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongdb,postgres,sequelize,rabbitmq,redis" />
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb,postgres,sequelize,rabbitmq,redis" />
   </a>
 </p>
 <p align="center">
