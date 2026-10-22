@@ -1,4 +1,4 @@
-# Hi there! You are in viewing fr34nk repo! 
+# Hi there! You are on fr34nk github profile! 
 
 ## It's a Full Stack Developer
 --------------------
